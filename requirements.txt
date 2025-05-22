@@ -6,8 +6,8 @@ numpy
 matplotlib
 scikit-learn
 fpdf
-pillow
-opencv-python
+pil
 pandas
+opencv-python
 python-multipart
 opencv-python-headless
